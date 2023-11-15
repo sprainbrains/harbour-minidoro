@@ -53,4 +53,14 @@ CONFIG += sailfishapp_i18n
 # planning to localize your app, remember to comment out the
 # following TRANSLATIONS line. And also do not forget to
 # modify the localized app name in the the .desktop file.
-TRANSLATIONS += translations/harbour-minidoro-de.ts
+TRANSLATIONS += \
+                translations/harbour-minidoro.ts \
+                translations/harbour-minidoro-de.ts \
+                translations/harbour-minidoro-en.ts \
+                translations/harbour-minidoro-et.ts \
+                translations/harbour-minidoro-hu.ts \
+                translations/harbour-minidoro-nb_NO.ts \
+                translations/harbour-minidoro-pl.ts \
+                translations/harbour-minidoro-ru.ts \
+                translations/harbour-minidoro-sv.ts \
+                translations/harbour-minidoro-uk.ts \

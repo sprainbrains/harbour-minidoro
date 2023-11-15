@@ -22,5 +22,5 @@ Permissions=
 OrganizationName=harbour-minidoro
 ApplicationName=harbour-minidoro
 
-[X-HarbourBackup]
-BackupConfigList=/apps/harbour-minidoro/
+#[X-HarbourBackup]
+#BackupConfigList=/apps/harbour-minidoro/
